@@ -1,0 +1,10 @@
+DATA QUALITY REPORT
+====================
+customers_total: 26
+customers_duplicates_removed: 1
+products_total: 20
+products_duplicates_removed: 0
+sales_total: 41
+sales_duplicates_removed: 1
+orders_total: 35
+order_items_total: 35
